@@ -1,0 +1,7 @@
+,Name,Address,Type,geometry,distance(km),Avg Price,Price Variance,Avg Rating,Rating Variance,Avg Open,Avg Close,Avg Tourism Rating,Num Attractions
+0,IUPUI,"415 Porto Alegre St, Indianapolis, IN 46202",Housing,"[39.77389, -86.1849117]",0.0,1.25,0.1,4.1,0.4,9.73,21.36,4.46,60
+1,Industrious Mass Ave,"350 Massachusetts Ave Suite 300, Indianapolis, IN 46204",Coworking,"[39.765831, -86.157617]",2.5,1.97,0.63,4.14,0.47,11.86,21.14,4.55,54
+2,Launch Fishers,"12175 Visionary Way, Fishers, IN 46038",Coworking,"[39.9667636, -86.0088088]",26.19,1.48,0.22,4.06,0.46,9.71,21.11,4.57,26
+3,Launch Indy,"525 S Meridian St, Indianapolis, IN 46225",Coworking,"[39.7593486, -86.1580467]",2.81,1.9,0.54,4.12,0.42,12.17,21.5,4.53,49
+4,The Speak Easy,"5255 Winthrop Ave #110, Indianapolis, IN 46220",Coworking,"[39.8488729, -86.1412948]",9.13,1.57,0.24,4.37,0.17,11.51,20.83,4.44,38
+5,zWORKS,"85 E Cedar St #1502, Zionsville, IN 46077",Coworking,"[39.9514923, -86.2608697]",20.79,1.58,0.27,4.18,0.3,10.0,20.6,4.69,12
